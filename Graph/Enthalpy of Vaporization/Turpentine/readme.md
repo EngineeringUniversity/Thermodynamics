@@ -2,11 +2,14 @@
 Has tremendously Low Enthalpy of Vaporization! 1/10th of Water's
 
 May be a great working fluid in a Rankine Cycle?
-https://www.engineeringtoolbox.com/fluids-evaporation-latent-heat-d_147.html
 
 # Wiki:
 https://en.wikipedia.org/wiki/Turpentine
 https://en.wikipedia.org/wiki/Terpene
+
+## Characteristics:
+https://www.engineeringtoolbox.com/fluids-evaporation-latent-heat-d_147.html
+
 
 # Advantage
 - Easy to Seal
@@ -15,3 +18,10 @@ https://en.wikipedia.org/wiki/Terpene
 
 # Disadvantage
 - Flamable
+
+# Relation:
+https://en.wikipedia.org/wiki/Pine-Sol
+
+# Production:
+https://en.wikipedia.org/wiki/Pine_oil
+https://en.wikipedia.org/wiki/Steam_distillation
