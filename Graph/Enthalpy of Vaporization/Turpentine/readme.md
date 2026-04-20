@@ -20,8 +20,9 @@ https://www.engineeringtoolbox.com/fluids-evaporation-latent-heat-d_147.html
 - Flamable
 
 # Relation:
-https://en.wikipedia.org/wiki/Pine-Sol
+- https://en.wikipedia.org/wiki/Essential_oil
+- https://en.wikipedia.org/wiki/Pine-Sol
 
-# Obtaining||Production:
-https://en.wikipedia.org/wiki/Pine_oil
-https://en.wikipedia.org/wiki/Steam_distillation
+# Source.Extraction:
+- https://en.wikipedia.org/wiki/Pine_oil
+- https://en.wikipedia.org/wiki/Steam_distillation
