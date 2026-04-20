@@ -7,7 +7,7 @@ May be a great working fluid in a Rankine Cycle?
 https://en.wikipedia.org/wiki/Turpentine
 https://en.wikipedia.org/wiki/Terpene
 
-## Characteristics:
+## Characteristicsn.Thermal Properties:
 https://www.engineeringtoolbox.com/fluids-evaporation-latent-heat-d_147.html
 
 
@@ -22,6 +22,6 @@ https://www.engineeringtoolbox.com/fluids-evaporation-latent-heat-d_147.html
 # Relation:
 https://en.wikipedia.org/wiki/Pine-Sol
 
-# Production:
+# Obtaining||Production:
 https://en.wikipedia.org/wiki/Pine_oil
 https://en.wikipedia.org/wiki/Steam_distillation
